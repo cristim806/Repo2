@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 3EBC-A7F1
+
+ Directory of C:\MyWork\GIT-GITHUB\MyProject
+
+10/27/2019  03:46 PM    <DIR>          .
+10/27/2019  03:46 PM    <DIR>          ..
+10/27/2019  03:46 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  95,031,037,952 bytes free
